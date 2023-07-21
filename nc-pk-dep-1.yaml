@@ -18,7 +18,7 @@ spec:
         app: nc-pk-dep-1
     spec:
       containers:
-      - image: nileshc85/nc-pk-1:19
+      - image: nileshc85/nc-pk-1:38
         name: nc-pk-1
         resources: {}
 status: {}
